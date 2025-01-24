@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @izzy010101
-- 👀 I’m interested in PHP and JavaScript
+
 
 
 <!---
